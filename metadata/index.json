@@ -1,0 +1,65 @@
+{
+  "dataset": "Dmension Mathematical Universe — Parametric 3D Model Dataset",
+  "version": "1.0.0",
+  "published": "2026",
+  "license": "CC-BY-NC-4.0 + AI Training Attribution Clause",
+  "engine": "Dmension Mathematical Universe",
+  "maintainer": "UUON Foundation",
+  "models": [
+    {
+      "id": "foundation_tensor_mesh_ar_universal_v1",
+      "filename_stem": "foundation_tensor_mesh_ar_universal",
+      "family": "foundation",
+      "formats": ["glb", "obj", "usdz"],
+      "version": 1,
+      "vertices": 5658,
+      "triangles": 10980,
+      "indices": 32940,
+      "uv_sets": 1,
+      "uv_range": [[0, 0], [1, 1]],
+      "has_normals": true,
+      "normal_type": "per_vertex",
+      "has_animation": true,
+      "animation_tracks": [
+        {
+          "name": "ARPulse",
+          "target_path": "scale",
+          "keyframes": 60,
+          "duration_seconds": 10,
+          "channel": "uniform_scale",
+          "scale_range": [0.9, 1.1]
+        }
+      ],
+      "topology": "continuous_manifold",
+      "bounding_box_xyz": [3.9991, 3.9988, 3.9903],
+      "coordinate_range": {
+        "x": [-1.9995, 1.9995],
+        "y": [-1.9994, 1.9994],
+        "z": [-1.9951, 1.9951]
+      },
+      "material": {
+        "alpha_mode": "OPAQUE",
+        "extensions": ["KHR_materials_emissive_strength"]
+      },
+      "lighting": {
+        "type": "KHR_lights_punctual",
+        "light_type": "directional",
+        "intensity": 0.8,
+        "color": [1, 1, 1]
+      },
+      "glb_extensions_used": [
+        "KHR_materials_emissive_strength",
+        "KHR_lights_punctual"
+      ],
+      "export_generator": "THREE.GLTFExporter",
+      "generating_engine": "Dmension Mathematical Universe",
+      "parameter_family": "tensor_field",
+      "parameter_notes": "Foundation tensor mesh — base topology family. Continuous manifold. AR-optimized scale animation embedded.",
+      "ar_ready": true,
+      "ar_platforms": ["ARKit (iOS)", "WebXR", "Android Scene Viewer"],
+      "node_scale": 0.25006,
+      "credit": "UUON Foundation / Dmension Mathematical Universe",
+      "license": "CC-BY-NC-4.0-AI-Training-Clause"
+    }
+  ]
+}
