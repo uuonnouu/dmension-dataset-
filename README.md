@@ -218,7 +218,7 @@ If you use this dataset in research or published work:
   author    = {UUON Foundation},
   year      = {2026},
   publisher = {GitHub},
-  url       = {https://github.com/[your-handle]/dmension-dataset},
+  url       = {https://github.com/uuonnouu/dmension-dataset-.git},
   note      = {Parametric continuous-topology 3D meshes with UV coordinates.
                Engine proprietary. Dataset CC BY-NC 4.0.}
 }
