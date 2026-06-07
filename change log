@@ -1,0 +1,18 @@
+Changelog
+[1.0.0] — 2026
+Initial Release
+
+Published foundation tensor mesh family (GLB, OBJ, USDZ)
+Published metadata/index.json catalog schema v1
+Established LICENSE.md with CC BY-NC 4.0 + AI Training Attribution Clause
+Reference specimen: foundation_tensor_mesh_ar_universal
+
+5,658 vertices, 10,980 triangles
+Full UV (TEXCOORD_0), per-vertex normals
+ARPulse animation track (60 keyframes, 10s loop)
+KHR_lights_punctual + KHR_materials_emissive_strength extensions
+
+
+
+
+Future additions will be logged here with model family names and counts.
