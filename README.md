@@ -133,7 +133,7 @@ This means UV seams are not artist decisions,they are mathematical boundaries. N
 The engine is not open source. The dataset it produces is.
 
 **For licensing the engine, research collaboration, or commercial integration inquiries:**  
-→ Contact via [UUON Foundation] — see NOTICE.md
+→ Contact via [UUON Foundation](https://www.cgtrader.com/designers/uuon-foundation) — see NOTICE.md
 
 ---
 
