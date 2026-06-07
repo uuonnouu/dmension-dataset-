@@ -1,0 +1,95 @@
+# License
+
+**Dmension Mathematical Universe — Parametric 3D Model Dataset**  
+Copyright © 2026 UUON Foundation. All rights reserved.
+
+---
+
+## Dataset License: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+This dataset — meaning all 3D model files (GLB, OBJ, USDZ), render images, and metadata — is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License, **with the additional AI Training Attribution Clause below**.
+
+Full CC BY-NC 4.0 legal text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+---
+
+## What You May Do
+
+**You are free to:**
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — use the models as training data, benchmark inputs, evaluation targets, or derivative research assets
+
+**Under the following terms:**
+
+### 1. Attribution (BY)
+
+You must give appropriate credit to the source. This means:
+
+For **any use** — include:  
+> *"3D dataset: Dmension Mathematical Universe — UUON Foundation"*  
+> with a link to this repository.
+
+For **AI/ML training specifically** — you must include the following credit in your model card, paper, or documentation:  
+> *"Training data includes parametric 3D meshes from the Dmension Mathematical Universe dataset (UUON Foundation, 2026). Engine proprietary."*
+
+The credit must appear wherever you describe your training data or methodology. It may not be buried in a supplementary appendix that is not publicly accessible.
+
+### 2. NonCommercial (NC)
+
+You may **not** use this dataset for **commercial purposes**. This includes but is not limited to:
+
+- Incorporating models into commercial products without written agreement
+- Training commercial AI/ML models that are sold, licensed, or monetized, without written agreement
+- Using models in paid services, SaaS platforms, or products where the 3D content contributes to commercial value
+
+**Exception:** Academic institutions and non-profit research organizations may use the dataset without restriction beyond the Attribution requirement, regardless of whether they receive grant funding.
+
+To obtain a commercial license, contact the UUON Foundation.
+
+### 3. No Additional Restrictions
+
+You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+---
+
+## AI Training Attribution Clause (Addendum)
+
+This clause is an addendum to the CC BY-NC 4.0 license and is legally binding as a condition of use.
+
+**If you use any portion of this dataset to train, fine-tune, pre-train, or otherwise inform an AI or machine learning model:**
+
+1. You must credit the dataset as specified in Section 1 (Attribution) above.
+2. If the resulting model is published, deployed, or made accessible to third parties in any form, that publication must include the dataset credit.
+3. You may not train a model on this dataset and then claim the resulting model's 3D geometry capabilities were developed without reference to external data, if this dataset was used.
+4. You may not use the dataset to train a model that attempts to replicate, approximate, or reverse-engineer the **Dmension Mathematical Universe engine or its generative method**. The outputs are licensed. The method is not.
+
+---
+
+## What Is NOT Licensed
+
+The following are explicitly excluded from this license and remain fully proprietary:
+
+- **The Dmension Mathematical Universe engine** — the mathematical system, algorithms, parametric functions, and codebase that generated these models. The engine is not included in this repository. Nothing in this license grants any rights to it.
+- **The generative methodology** — the mathematical relationships, parameter schemas, and field equations underlying the models.
+- **The UUON Foundation name, logo, and brand** — not licensed for use beyond attribution credit as described above.
+- **Future dataset versions** — this license covers files present in this repository at the time of access. Future additions may carry different terms.
+
+---
+
+## Disclaimer
+
+This dataset is provided "as is" without warranty of any kind. The UUON Foundation makes no representations about the fitness of these models for any particular purpose. Users are responsible for validating models before use in safety-critical or production contexts.
+
+---
+
+## Commercial Licensing and Engine Inquiries
+
+For commercial use, engine licensing, research collaboration, or integration agreements:
+
+**UUON Foundation**  
+*(Contact information in NOTICE.md)*
+
+---
+
+*This license was written to be human-readable. In case of conflict between this summary and the CC BY-NC 4.0 legal code, the legal code governs. The AI Training Attribution Clause is an additional contractual condition layered on top of CC BY-NC 4.0 and is independently enforceable.*
