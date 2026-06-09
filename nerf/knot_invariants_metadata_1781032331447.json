@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "knot_invariants",
+  "shapeName": "🪢 Knot Invariants - Crossing Patterns",
+  "exportDate": "2026-06-09T19:12:11.446Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 4,
+    "e": 3,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 128,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "00000000000000000000000000000000000000000000000000000000547b34c9",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T19:12:11.446Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -2.925276279449463,
+      -4.208968639373779,
+      -3.096853733062744
+    ],
+    "aabb_max": [
+      4.899056911468506,
+      4.408968925476074,
+      3.306666851043701
+    ],
+    "center": [
+      0.9868903160095215,
+      0.10000014305114746,
+      0.10490655899047852
+    ],
+    "scale": 8.617937564849854
+  }
+}

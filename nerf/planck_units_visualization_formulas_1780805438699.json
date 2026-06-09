@@ -1,0 +1,62 @@
+{
+  "positional_encoding": {
+    "formula": "γ(p) = [p, sin(2⁰πp), cos(2⁰πp), ..., sin(2^(L-1)πp), cos(2^(L-1)πp)]",
+    "latex": "\\gamma(p) = \\left[p, \\sin(2^0 \\pi p), \\cos(2^0 \\pi p), \\ldots, \\sin(2^{L-1} \\pi p), \\cos(2^{L-1} \\pi p)\\right]",
+    "description": "Fourier feature mapping that enables MLPs to learn high-frequency functions. Without positional encoding, coordinate-based MLPs are biased toward learning low-frequency functions.",
+    "parameters": [
+      {
+        "name": "Input position",
+        "symbol": "p",
+        "description": "Normalized 3D coordinate (x, y, z) ∈ [-1, 1]³"
+      },
+      {
+        "name": "Encoding levels",
+        "symbol": "L",
+        "description": "Number of frequency octaves (typically 10 for positions, 4 for directions)"
+      },
+      {
+        "name": "Output dimension",
+        "symbol": "3 + 6L",
+        "description": "Total encoding dimension (63 for L=10)"
+      }
+    ]
+  },
+  "volume_rendering": {
+    "formula": "C(r) = ∫_{t_n}^{t_f} T(t) · σ(r(t)) · c(r(t), d) dt",
+    "latex": "C(\\mathbf{r}) = \\int_{t_n}^{t_f} T(t) \\cdot \\sigma(\\mathbf{r}(t)) \\cdot \\mathbf{c}(\\mathbf{r}(t), \\mathbf{d}) \\, dt",
+    "description": "The expected color along a ray, computed by integrating density-weighted radiance. T(t) is the accumulated transmittance (probability of the ray traveling to t without hitting anything).",
+    "components": [
+      {
+        "name": "Transmittance",
+        "formula": "T(t) = exp(-∫_{t_n}^{t} σ(r(s)) ds)",
+        "description": "Accumulated probability of ray reaching point t"
+      },
+      {
+        "name": "Alpha",
+        "formula": "α_i = 1 - exp(-σ_i · δ_i)",
+        "description": "Opacity of sample i based on density and step size"
+      },
+      {
+        "name": "Discrete rendering",
+        "formula": "Ĉ = Σ_i T_i · α_i · c_i",
+        "description": "Quadrature approximation of the rendering integral"
+      },
+      {
+        "name": "Weight",
+        "formula": "w_i = T_i · α_i",
+        "description": "Contribution weight of sample i to final color"
+      }
+    ]
+  },
+  "hash_grid_encoding": {
+    "formula": "h(x) = (⊕_i x_i · π_i) mod T",
+    "latex": "h(\\mathbf{x}) = \\left(\\bigoplus_i x_i \\cdot \\pi_i\\right) \\mod T",
+    "description": "Multi-resolution hash encoding from Instant-NGP. Uses spatial hashing at multiple resolutions with learned feature vectors, enabling fast training and inference.",
+    "resolution_formula": "N_l = ⌊N_min · b^l⌋, b = exp((ln(N_max) - ln(N_min))/(L-1))"
+  },
+  "camera_projection": {
+    "intrinsic_matrix": "K = [[fx, 0, cx], [0, fy, cy], [0, 0, 1]]",
+    "projection_formula": "[u, v, 1]ᵀ = (1/z) · K · [x, y, z]ᵀ",
+    "distortion_model": "x_d = x'(1 + k₁r² + k₂r⁴ + k₃r⁶) + 2p₁x'y' + p₂(r² + 2x'²)"
+  }
+}

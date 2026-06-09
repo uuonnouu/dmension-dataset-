@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "mandelbox_fractal",
+  "shapeName": "🌀 Mandelbox Fractal",
+  "exportDate": "2026-06-06T08:25:38.464Z",
+  "parameters": {
+    "a": 5,
+    "b": 20,
+    "c": 1.5,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 32,
+    "vSegments": 32
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000002972c877",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-06T08:25:38.464Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      null,
+      null,
+      null
+    ],
+    "aabb_max": [
+      null,
+      null,
+      null
+    ],
+    "center": [
+      null,
+      null,
+      null
+    ],
+    "scale": null
+  }
+}

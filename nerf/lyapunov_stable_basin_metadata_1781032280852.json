@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "lyapunov_stable_basin",
+  "shapeName": "🟢 Lyapunov Stable Basin",
+  "exportDate": "2026-06-09T19:11:20.851Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 64,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000012b9f47a",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T19:11:20.851Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.899999976158142,
+      -1.7000000476837158,
+      -1.899999976158142
+    ],
+    "aabb_max": [
+      2.0999999046325684,
+      -0.14360350370407104,
+      2.0999999046325684
+    ],
+    "center": [
+      0.09999996423721313,
+      -0.9218017756938934,
+      0.09999996423721313
+    ],
+    "scale": 3.9999998807907104
+  }
+}

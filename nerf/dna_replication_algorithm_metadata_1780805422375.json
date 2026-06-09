@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "dna_replication_algorithm",
+  "shapeName": "🧬 DNA Replication - Nature's Algorithm",
+  "exportDate": "2026-06-07T04:10:22.374Z",
+  "parameters": {
+    "a": 1,
+    "b": 4,
+    "c": 3,
+    "d": 0.15,
+    "e": 0.7,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 128,
+    "vSegments": 32
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000004470935e",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-07T04:10:22.374Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.3502119779586792,
+      -1.0005556344985962,
+      -0.4001810550689697
+    ],
+    "aabb_max": [
+      1.550212025642395,
+      1.200555682182312,
+      0.5999653339385986
+    ],
+    "center": [
+      0.10000002384185791,
+      0.10000002384185791,
+      0.09989213943481445
+    ],
+    "scale": 2.900424003601074
+  }
+}

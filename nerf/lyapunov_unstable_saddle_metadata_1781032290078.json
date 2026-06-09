@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "lyapunov_unstable_saddle",
+  "shapeName": "🔴 Lyapunov Unstable Saddle",
+  "exportDate": "2026-06-09T19:11:30.077Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 64,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000058462011",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T19:11:30.077Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.899999976158142,
+      -1.2200000286102295,
+      -1.899999976158142
+    ],
+    "aabb_max": [
+      2.0999999046325684,
+      1.4199999570846558,
+      2.0999999046325684
+    ],
+    "center": [
+      0.09999996423721313,
+      0.09999996423721313,
+      0.09999996423721313
+    ],
+    "scale": 3.9999998807907104
+  }
+}

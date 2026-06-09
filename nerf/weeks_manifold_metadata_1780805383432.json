@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "weeks_manifold",
+  "shapeName": "weeks_manifold",
+  "exportDate": "2026-06-07T04:09:43.431Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0.9427,
+    "e": 3,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 6.283185307179586,
+    "vMin": -2,
+    "vMax": 2,
+    "uSegments": 80,
+    "vSegments": 40
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000000bccd22b",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-07T04:09:43.431Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -4.344105243682861,
+      -3.6551766395568848,
+      -1.7142661809921265
+    ],
+    "aabb_max": [
+      4.578955173492432,
+      4.653933525085449,
+      1.9145393371582031
+    ],
+    "center": [
+      0.11742496490478516,
+      0.4993784427642822,
+      0.10013657808303833
+    ],
+    "scale": 8.923060417175293
+  }
+}

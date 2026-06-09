@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "lyapunov_exponent_surface",
+  "shapeName": "📊 Lyapunov Exponent - Chaos Measure",
+  "exportDate": "2026-06-09T19:10:28.767Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 3.5,
+    "e": 4,
+    "f": 100,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 128,
+    "vSegments": 128
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000002d1c5619",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T19:10:28.767Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.9596758484840393,
+      -0.9594990611076355,
+      -0.26118203997612
+    ],
+    "aabb_max": [
+      1.1596440076828003,
+      1.1597036123275757,
+      0.5194444060325623
+    ],
+    "center": [
+      0.0999840795993805,
+      0.10010227560997009,
+      0.12913118302822113
+    ],
+    "scale": 2.1193198561668396
+  }
+}

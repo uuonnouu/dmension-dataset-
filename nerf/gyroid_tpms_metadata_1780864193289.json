@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "gyroid_tpms",
+  "shapeName": "🦴 Gyroid TPMS - Bone Scaffold (Minimal Surface)",
+  "exportDate": "2026-06-07T20:29:53.286Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 7.44,
+    "d": 50,
+    "e": 50,
+    "f": 43.69,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 120,
+    "vSegments": 120
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000009ad7e67",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-07T20:29:53.286Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.253359079360962,
+      -1.253359079360962,
+      0.17267507314682007
+    ],
+    "aabb_max": [
+      1.4533591270446777,
+      1.4533591270446777,
+      1.4727169275283813
+    ],
+    "center": [
+      0.10000002384185791,
+      0.10000002384185791,
+      0.8226960003376007
+    ],
+    "scale": 2.7067182064056396
+  }
+}

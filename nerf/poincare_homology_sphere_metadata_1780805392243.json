@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "poincare_homology_sphere",
+  "shapeName": "poincare_homology_sphere",
+  "exportDate": "2026-06-07T04:09:52.242Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0.3,
+    "e": 5,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 6.283185307179586,
+    "vMin": 0,
+    "vMax": 3.141592653589793,
+    "uSegments": 80,
+    "vSegments": 40
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000002e4a59ef",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-07T04:09:52.242Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.090539574623108,
+      -1.0583653450012207,
+      -1.1933174133300781
+    ],
+    "aabb_max": [
+      1.2461305856704712,
+      1.2123862504959106,
+      1.4243086576461792
+    ],
+    "center": [
+      0.07779550552368164,
+      0.07701045274734497,
+      0.11549562215805054
+    ],
+    "scale": 2.6176260709762573
+  }
+}

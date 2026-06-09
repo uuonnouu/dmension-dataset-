@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "dna_expression_system",
+  "shapeName": "🧬 DNA Expression: E = f(TF, epigenetics), R = 1-E",
+  "exportDate": "2026-06-08T18:31:01.969Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 2,
+    "e": 1.5,
+    "f": 0.1,
+    "uMin": 0,
+    "uMax": 3.4,
+    "vMin": 0,
+    "vMax": 6.283185307179586,
+    "uSegments": 205,
+    "vSegments": 98
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000004abdd4d4",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-08T18:31:01.969Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -2.8896660804748535,
+      -2.6946070194244385,
+      -0.09733196347951889
+    ],
+    "aabb_max": [
+      1.939675211906433,
+      2.8962419033050537,
+      10.502703666687012
+    ],
+    "center": [
+      -0.4749954342842102,
+      0.10081744194030762,
+      5.202685851603746
+    ],
+    "scale": 10.60003563016653
+  }
+}

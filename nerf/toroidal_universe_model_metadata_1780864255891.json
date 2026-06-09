@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "toroidal_universe_model",
+  "shapeName": "🍩 Toroidal Universe Model",
+  "exportDate": "2026-06-07T20:30:55.889Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 9.81,
+    "e": 50,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 64,
+    "vSegments": 48
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000003dd20af0",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-07T20:30:55.889Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -61.97267150878906,
+      -65.58863830566406,
+      -49.88356399536133
+    ],
+    "aabb_max": [
+      62.172672271728516,
+      54.15553283691406,
+      50.136085510253906
+    ],
+    "center": [
+      0.10000038146972656,
+      -5.716552734375,
+      0.12626075744628906
+    ],
+    "scale": 124.14534378051758
+  }
+}

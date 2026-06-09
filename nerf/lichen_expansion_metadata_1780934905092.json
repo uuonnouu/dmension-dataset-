@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "lichen_expansion",
+  "shapeName": "🍃 Lichen Expansion - Radial Colony Growth",
+  "exportDate": "2026-06-08T16:08:25.091Z",
+  "parameters": {
+    "a": 10,
+    "b": 5,
+    "c": 2,
+    "d": 8,
+    "e": 0,
+    "f": 0,
+    "uMin": -100,
+    "uMax": 100,
+    "vMin": -100,
+    "vMax": 100,
+    "uSegments": 32,
+    "vSegments": 32
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000007e433e81",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-08T16:08:25.091Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -99.96822357177734,
+      -100.4541244506836,
+      -87.17866516113281
+    ],
+    "aabb_max": [
+      100.17133331298828,
+      100.65467834472656,
+      87.87708282470703
+    ],
+    "center": [
+      0.10155487060546875,
+      0.10027694702148438,
+      0.3492088317871094
+    ],
+    "scale": 201.10880279541016
+  }
+}

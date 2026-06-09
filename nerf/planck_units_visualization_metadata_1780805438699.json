@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "planck_units_visualization",
+  "shapeName": "📏 Planck Units: l_p, t_p, m_p Fundamental Scales",
+  "exportDate": "2026-06-07T04:10:38.697Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 1000,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 6.283185307179586,
+    "vMin": 0,
+    "vMax": 3.141592653589793,
+    "uSegments": 64,
+    "vSegments": 32
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000001f6533e5",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-07T04:10:38.697Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.59478759765625,
+      -1.59478759765625,
+      -1.527596354484558
+    ],
+    "aabb_max": [
+      1.7947875261306763,
+      1.7947875261306763,
+      2.31510853767395
+    ],
+    "center": [
+      0.09999996423721313,
+      0.09999996423721313,
+      0.39375609159469604
+    ],
+    "scale": 3.8427048921585083
+  }
+}

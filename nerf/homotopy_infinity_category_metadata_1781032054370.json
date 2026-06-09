@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "homotopy_infinity_category",
+  "shapeName": "∞ Homotopy Type - ∞-Category Morphism Paths",
+  "exportDate": "2026-06-09T19:07:34.369Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0.8,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 96
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000000826651e",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T19:07:34.369Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.660740852355957,
+      -1.6614712476730347,
+      0.10133333504199982
+    ],
+    "aabb_max": [
+      1.846401572227478,
+      1.856971025466919,
+      5.101964473724365
+    ],
+    "center": [
+      0.0928303599357605,
+      0.09774988889694214,
+      2.6016489043831825
+    ],
+    "scale": 5.000631138682365
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "galactic_uv_sphere",
+  "shapeName": "🌌 Galactic UV Coordinate Sphere — IAU J2000 Transform",
+  "exportDate": "2026-06-05T04:50:05.743Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 2,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 50,
+    "uMax": -3.8,
+    "vMin": -7.5,
+    "vMax": 2.4,
+    "uSegments": 360,
+    "vSegments": 32
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000024372ac6",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-05T04:50:05.743Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.2983800172805786,
+      -1.7556251287460327,
+      -1.6765611171722412
+    ],
+    "aabb_max": [
+      1.5049798488616943,
+      2.0101561546325684,
+      1.8395220041275024
+    ],
+    "center": [
+      0.10329991579055786,
+      0.12726551294326782,
+      0.08148044347763062
+    ],
+    "scale": 3.765781283378601
+  }
+}

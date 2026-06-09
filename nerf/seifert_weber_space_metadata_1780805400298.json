@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "seifert_weber_space",
+  "shapeName": "seifert_weber_space",
+  "exportDate": "2026-06-07T04:10:00.297Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0.4,
+    "e": 5,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 6.283185307179586,
+    "vMin": 0.05,
+    "vMax": 3.0915926535897933,
+    "uSegments": 80,
+    "vSegments": 40
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000078411014",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-07T04:10:00.297Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.5829402208328247,
+      -1.4420993328094482,
+      -2.02353572845459
+    ],
+    "aabb_max": [
+      1.6394609212875366,
+      1.784961223602295,
+      1.3559505939483643
+    ],
+    "center": [
+      0.028260350227355957,
+      0.17143094539642334,
+      -0.3337925672531128
+    ],
+    "scale": 3.379486322402954
+  }
+}

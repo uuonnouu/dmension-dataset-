@@ -1,0 +1,239 @@
+{
+  "timestamp": 1780631057437,
+  "totalEnergy": 1.6095255525389807,
+  "energyDistribution": [
+    {
+      "shapeId": "sphere",
+      "energy": 0.6856802650733356,
+      "frequency": 31.622776601683796,
+      "phase": 0,
+      "curvature": 0.19078376829637594
+    },
+    {
+      "shapeId": "area_triangle",
+      "energy": 0.6856802650733356,
+      "frequency": 31.622776601683796,
+      "phase": 0,
+      "curvature": 0.5754570611333044
+    },
+    {
+      "shapeId": "equal_sets",
+      "energy": -1.0008685651311058,
+      "frequency": 31.622776601683796,
+      "phase": 0,
+      "curvature": 0
+    },
+    {
+      "shapeId": "infinite_set",
+      "energy": -1.0008685651311058,
+      "frequency": 31.622776601683796,
+      "phase": 0,
+      "curvature": 0
+    },
+    {
+      "shapeId": "covariant_derivative_surface",
+      "energy": 3.010102310994773,
+      "frequency": 0.7069300707549023,
+      "phase": 0,
+      "curvature": 0.5754570611333044
+    },
+    {
+      "shapeId": "sound_wave",
+      "energy": -0.7702001583402518,
+      "frequency": 31.622776601683796,
+      "phase": 0,
+      "curvature": 0.08896571768364128
+    }
+  ],
+  "fieldState": {
+    "potential": -1.0008685651311058,
+    "gradient": [
+      0,
+      0,
+      0
+    ]
+  },
+  "connections": [
+    {
+      "source": "wave",
+      "target": "quantum",
+      "strength": 0.007297352573756914,
+      "type": "harmonic"
+    },
+    {
+      "source": "sphere",
+      "target": "torus",
+      "strength": 0.6180339887498948,
+      "type": "symmetry"
+    },
+    {
+      "source": "fractal",
+      "target": "chaos",
+      "strength": 0.618,
+      "type": "derivative"
+    },
+    {
+      "source": "dna",
+      "target": "protein",
+      "strength": 0.75,
+      "type": "integral"
+    },
+    {
+      "source": "geometry",
+      "target": "topology",
+      "strength": 1,
+      "type": "dual"
+    },
+    {
+      "source": "sphere",
+      "target": "area_triangle",
+      "strength": 9.99683882195733,
+      "type": "harmonic"
+    },
+    {
+      "source": "sphere",
+      "target": "area_triangle",
+      "strength": 2.063245519774197,
+      "type": "symmetry"
+    },
+    {
+      "source": "sphere",
+      "target": "equal_sets",
+      "strength": 9.99683882195733,
+      "type": "harmonic"
+    },
+    {
+      "source": "sphere",
+      "target": "equal_sets",
+      "strength": 3.4389815011296245,
+      "type": "symmetry"
+    },
+    {
+      "source": "area_triangle",
+      "target": "equal_sets",
+      "strength": 9.99683882195733,
+      "type": "harmonic"
+    },
+    {
+      "source": "sphere",
+      "target": "infinite_set",
+      "strength": 9.99683882195733,
+      "type": "harmonic"
+    },
+    {
+      "source": "sphere",
+      "target": "infinite_set",
+      "strength": 3.4389815011296245,
+      "type": "symmetry"
+    },
+    {
+      "source": "area_triangle",
+      "target": "infinite_set",
+      "strength": 9.99683882195733,
+      "type": "harmonic"
+    },
+    {
+      "source": "equal_sets",
+      "target": "infinite_set",
+      "strength": 9.99683882195733,
+      "type": "harmonic"
+    },
+    {
+      "source": "equal_sets",
+      "target": "infinite_set",
+      "strength": 10,
+      "type": "symmetry"
+    },
+    {
+      "source": "sphere",
+      "target": "covariant_derivative_surface",
+      "strength": 8.172980491819871,
+      "type": "harmonic"
+    },
+    {
+      "source": "sphere",
+      "target": "covariant_derivative_surface",
+      "strength": 2.063245519774197,
+      "type": "symmetry"
+    },
+    {
+      "source": "area_triangle",
+      "target": "covariant_derivative_surface",
+      "strength": 8.172980491819871,
+      "type": "harmonic"
+    },
+    {
+      "source": "area_triangle",
+      "target": "covariant_derivative_surface",
+      "strength": 10,
+      "type": "symmetry"
+    },
+    {
+      "source": "equal_sets",
+      "target": "covariant_derivative_surface",
+      "strength": 8.172980491819871,
+      "type": "harmonic"
+    },
+    {
+      "source": "infinite_set",
+      "target": "covariant_derivative_surface",
+      "strength": 8.172980491819871,
+      "type": "harmonic"
+    },
+    {
+      "source": "sphere",
+      "target": "sound_wave",
+      "strength": 9.99683882195733,
+      "type": "harmonic"
+    },
+    {
+      "source": "sphere",
+      "target": "sound_wave",
+      "strength": 4.9549581762578985,
+      "type": "symmetry"
+    },
+    {
+      "source": "area_triangle",
+      "target": "sound_wave",
+      "strength": 9.99683882195733,
+      "type": "harmonic"
+    },
+    {
+      "source": "area_triangle",
+      "target": "sound_wave",
+      "strength": 1.7050550040826427,
+      "type": "symmetry"
+    },
+    {
+      "source": "equal_sets",
+      "target": "sound_wave",
+      "strength": 9.99683882195733,
+      "type": "harmonic"
+    },
+    {
+      "source": "equal_sets",
+      "target": "sound_wave",
+      "strength": 5.29196518954914,
+      "type": "symmetry"
+    },
+    {
+      "source": "infinite_set",
+      "target": "sound_wave",
+      "strength": 9.99683882195733,
+      "type": "harmonic"
+    },
+    {
+      "source": "infinite_set",
+      "target": "sound_wave",
+      "strength": 5.29196518954914,
+      "type": "symmetry"
+    },
+    {
+      "source": "covariant_derivative_surface",
+      "target": "sound_wave",
+      "strength": 1.7050550040826427,
+      "type": "symmetry"
+    }
+  ],
+  "evolutionTime": 0
+}
