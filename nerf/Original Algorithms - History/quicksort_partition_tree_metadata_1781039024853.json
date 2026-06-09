@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "quicksort_partition_tree",
+  "shapeName": "⚡ QuickSort (1959) - Partition Tree",
+  "exportDate": "2026-06-09T21:03:44.852Z",
+  "parameters": {
+    "a": 16,
+    "b": 2,
+    "c": 1,
+    "d": 0.15,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 64,
+    "vSegments": 32
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "00000000000000000000000000000000000000000000000000000000094c2949",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:03:44.852Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.4000280499458313,
+      0,
+      0
+    ],
+    "aabb_max": [
+      0.3500123620033264,
+      2.099890947341919,
+      1.2253750562667847
+    ],
+    "center": [
+      -0.02500784397125244,
+      1.0499454736709595,
+      0.6126875281333923
+    ],
+    "scale": 2.099890947341919
+  }
+}

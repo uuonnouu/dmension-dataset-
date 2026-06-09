@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "kepler_planetary_motion",
+  "shapeName": "🪐 Kepler's Laws (1609) - Planetary Ellipse",
+  "exportDate": "2026-06-09T21:02:04.099Z",
+  "parameters": {
+    "a": 2,
+    "b": 0.5,
+    "c": 0.15,
+    "d": 1,
+    "e": 0.3,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 128,
+    "vSegments": 24
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000067725da1",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:02:04.099Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -2.7994861602783203,
+      -1.09714937210083,
+      -1.0274043083190918
+    ],
+    "aabb_max": [
+      1.2004746198654175,
+      1.297149419784546,
+      1.2301652431488037
+    ],
+    "center": [
+      -0.7995057702064514,
+      0.10000002384185791,
+      0.10138046741485596
+    ],
+    "scale": 3.999960780143738
+  }
+}

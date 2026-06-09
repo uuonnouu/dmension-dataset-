@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "sieve_eratosthenes",
+  "shapeName": "🔢 Sieve of Eratosthenes (240 BCE) - Prime Number Discovery",
+  "exportDate": "2026-06-09T21:01:04.763Z",
+  "parameters": {
+    "a": 30,
+    "b": 1.5,
+    "c": 0.3,
+    "d": 6,
+    "e": 1,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 64,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000002910338c",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:01:04.763Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.9026294946670532,
+      -0.9026162028312683,
+      0.1043582633137703
+    ],
+    "aabb_max": [
+      1.501437783241272,
+      1.501437783241272,
+      0.6671954989433289
+    ],
+    "center": [
+      0.2994041442871094,
+      0.29941079020500183,
+      0.3857768811285496
+    ],
+    "scale": 2.404067277908325
+  }
+}

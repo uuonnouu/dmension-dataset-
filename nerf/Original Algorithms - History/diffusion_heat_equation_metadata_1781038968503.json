@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "diffusion_heat_equation",
+  "shapeName": "🌡️ Diffusion Process - Heat Equation Solution",
+  "exportDate": "2026-06-09T21:02:48.502Z",
+  "parameters": {
+    "a": 2,
+    "b": 1,
+    "c": 0.5,
+    "d": -50,
+    "e": -50,
+    "f": 50,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 96
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000004e864370",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:02:48.502Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.8551251888275146,
+      -0.8551251888275146,
+      0.03304954618215561
+    ],
+    "aabb_max": [
+      1.055125117301941,
+      1.055125117301941,
+      0.8047274947166443
+    ],
+    "center": [
+      0.09999996423721313,
+      0.09999996423721313,
+      0.41888852044939995
+    ],
+    "scale": 1.9102503061294556
+  }
+}

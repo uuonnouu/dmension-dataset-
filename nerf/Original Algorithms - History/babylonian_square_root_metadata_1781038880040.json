@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "babylonian_square_root",
+  "shapeName": "🔺 Babylonian Method (1800 BCE) - Square Root Convergence",
+  "exportDate": "2026-06-09T21:01:20.039Z",
+  "parameters": {
+    "a": 2,
+    "b": 1.5,
+    "c": 1,
+    "d": 10,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 48,
+    "vSegments": 32
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000005dba76a7",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:01:20.039Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.9042179584503174,
+      -0.9042179584503174,
+      0.11249999701976776
+    ],
+    "aabb_max": [
+      1.1042180061340332,
+      1.1042180061340332,
+      10.125
+    ],
+    "center": [
+      0.10000002384185791,
+      0.10000002384185791,
+      5.118749998509884
+    ],
+    "scale": 10.012500002980232
+  }
+}

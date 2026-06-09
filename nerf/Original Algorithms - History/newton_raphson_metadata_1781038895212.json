@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "newton_raphson",
+  "shapeName": "🎯 Newton-Raphson (1669) - Root Finding Method",
+  "exportDate": "2026-06-09T21:01:35.211Z",
+  "parameters": {
+    "a": 2,
+    "b": 2,
+    "c": 1.2,
+    "d": 8,
+    "e": 0,
+    "f": 0,
+    "uMin": -6.28318,
+    "uMax": 6.28318,
+    "vMin": -6.28318,
+    "vMax": 6.28318,
+    "uSegments": 64,
+    "vSegments": 48
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "00000000000000000000000000000000000000000000000000000000562c5b68",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:01:35.211Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.0906894207000732,
+      -1.0906895399093628,
+      0.10666682571172714
+    ],
+    "aabb_max": [
+      1.290689468383789,
+      1.290689468383789,
+      1.7199971675872803
+    ],
+    "center": [
+      0.10000002384185791,
+      0.09999996423721313,
+      0.9133319966495037
+    ],
+    "scale": 2.381379008293152
+  }
+}

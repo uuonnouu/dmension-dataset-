@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "fibonacci_spiral_enhanced",
+  "shapeName": "🌀 Fibonacci Spiral (1202) - Golden Ratio Growth",
+  "exportDate": "2026-06-09T21:01:49.406Z",
+  "parameters": {
+    "a": 0.5,
+    "b": 1.618,
+    "c": 0.3,
+    "d": 4,
+    "e": 0.2,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 32
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000055aba7b0",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:01:49.406Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -5.305417537689209,
+      -5.76226806640625,
+      -0.8910872340202332
+    ],
+    "aabb_max": [
+      6.457009792327881,
+      5.081559181213379,
+      6.435494899749756
+    ],
+    "center": [
+      0.5757961273193359,
+      -0.34035444259643555,
+      2.7722038328647614
+    ],
+    "scale": 11.76242733001709
+  }
+}

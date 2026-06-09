@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "einstein_mass_energy",
+  "shapeName": "⚛️ Einstein Mass Energy: E = mc² - Energy Spiral from Mass Point",
+  "exportDate": "2026-06-09T21:04:10.887Z",
+  "parameters": {
+    "a": 1,
+    "b": 3,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 72
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000000c4fceb2",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:04:10.887Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.9004581570625305,
+      -0.9004581570625305,
+      0.10120046138763428
+    ],
+    "aabb_max": [
+      1.1004581451416016,
+      1.1004581451416016,
+      1.1031960248947144
+    ],
+    "center": [
+      0.09999999403953552,
+      0.09999999403953552,
+      0.6021982431411743
+    ],
+    "scale": 2.000916302204132
+  }
+}

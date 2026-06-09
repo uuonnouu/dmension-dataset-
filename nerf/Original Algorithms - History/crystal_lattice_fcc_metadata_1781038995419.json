@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "crystal_lattice_fcc",
+  "shapeName": "💎 Crystal Lattice - Face-Centered Cubic",
+  "exportDate": "2026-06-09T21:03:15.418Z",
+  "parameters": {
+    "a": 0.8,
+    "b": 3,
+    "c": 0.15,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 64,
+    "vSegments": 16
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000036aa38a6",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:03:15.418Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.899999976158142,
+      -1.899999976158142,
+      -0.8999999761581421
+    ],
+    "aabb_max": [
+      1.600000023841858,
+      1.600000023841858,
+      1.100000023841858
+    ],
+    "center": [
+      -0.1499999761581421,
+      -0.1499999761581421,
+      0.10000002384185791
+    ],
+    "scale": 3.5
+  }
+}
