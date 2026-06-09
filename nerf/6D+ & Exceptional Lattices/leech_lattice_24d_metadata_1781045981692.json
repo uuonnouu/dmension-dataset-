@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "leech_lattice_24d",
+  "shapeName": "🌌 Leech Lattice (24D) - Sphere Packing",
+  "exportDate": "2026-06-09T22:59:41.692Z",
+  "parameters": {
+    "a": 0.16,
+    "b": 7.67,
+    "c": 11.71,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 27.9,
+    "uMax": 50,
+    "vMin": -50,
+    "vMax": 50,
+    "uSegments": 98,
+    "vSegments": 225
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000002667b989",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T22:59:41.692Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -15.144744873046875,
+      -1817.2296142578125,
+      -927.5408325195312
+    ],
+    "aabb_max": [
+      10.635993957519531,
+      612.8707275390625,
+      3954.201416015625
+    ],
+    "center": [
+      -2.254375457763672,
+      -602.179443359375,
+      1513.3302917480469
+    ],
+    "scale": 4881.742248535156
+  }
+}

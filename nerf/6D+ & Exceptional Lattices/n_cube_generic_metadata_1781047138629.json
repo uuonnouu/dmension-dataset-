@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "n_cube_generic",
+  "shapeName": "🔷 N-Cube (Configurable Dimension)",
+  "exportDate": "2026-06-09T23:18:58.629Z",
+  "parameters": {
+    "a": 50,
+    "b": 48.1,
+    "c": 50,
+    "d": 0,
+    "e": 0,
+    "f": 50,
+    "uMin": 0,
+    "uMax": 50,
+    "vMin": 0,
+    "vMax": -16.3,
+    "uSegments": 128,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000007528628b",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T23:18:58.629Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -45.145442962646484,
+      -1.0423027276992798,
+      -6.6324310302734375
+    ],
+    "aabb_max": [
+      45.345252990722656,
+      1.2423123121261597,
+      97.49530792236328
+    ],
+    "center": [
+      0.09990501403808594,
+      0.10000479221343994,
+      45.43143844604492
+    ],
+    "scale": 104.12773895263672
+  }
+}

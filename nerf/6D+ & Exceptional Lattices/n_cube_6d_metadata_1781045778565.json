@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "n_cube_6d",
+  "shapeName": "🔷 6-Cube (Hexeract) - 64 Vertices",
+  "exportDate": "2026-06-09T22:56:18.564Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 128,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000051bb2f26",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T22:56:18.564Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -131.14999389648438,
+      -133.4134521484375,
+      -299.8999938964844
+    ],
+    "aabb_max": [
+      150.10000610351562,
+      1259.9075927734375,
+      262.6000061035156
+    ],
+    "center": [
+      9.475006103515625,
+      563.2470703125,
+      -18.649993896484375
+    ],
+    "scale": 1393.321044921875
+  }
+}

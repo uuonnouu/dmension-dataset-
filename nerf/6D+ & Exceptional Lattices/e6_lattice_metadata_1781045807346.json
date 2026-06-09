@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "e6_lattice",
+  "shapeName": "E₆ Exceptional Lattice",
+  "exportDate": "2026-06-09T22:56:47.345Z",
+  "parameters": {
+    "a": 2,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 72,
+    "vSegments": 72
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000004b21aa9a",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T22:56:47.345Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.000389575958252,
+      -0.9719918370246887,
+      -0.8999999761581421
+    ],
+    "aabb_max": [
+      1.2003895044326782,
+      1.1719918251037598,
+      1.172719955444336
+    ],
+    "center": [
+      0.09999996423721313,
+      0.09999999403953552,
+      0.13635998964309692
+    ],
+    "scale": 2.20077908039093
+  }
+}

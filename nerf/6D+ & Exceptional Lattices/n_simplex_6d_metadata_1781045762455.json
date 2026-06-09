@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "n_simplex_6d",
+  "shapeName": "🔺 6-Simplex (Heptapeton) - 7 Vertices",
+  "exportDate": "2026-06-09T22:56:02.454Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": -1.2,
+    "uMax": -50,
+    "vMin": -50,
+    "vMax": 41.6,
+    "uSegments": 96,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000016dc0141",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T22:56:02.454Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -29.600000381469727,
+      -1.3125,
+      -37.400001525878906
+    ],
+    "aabb_max": [
+      40.51250076293945,
+      0.10000000149011612,
+      31.299999237060547
+    ],
+    "center": [
+      5.456250190734863,
+      -0.6062499992549419,
+      -3.0500011444091797
+    ],
+    "scale": 70.11250114440918
+  }
+}

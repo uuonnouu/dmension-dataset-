@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "e7_lattice",
+  "shapeName": "E₇ Exceptional Lattice",
+  "exportDate": "2026-06-09T22:57:01.685Z",
+  "parameters": {
+    "a": 2,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 72,
+    "vSegments": 72
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000001f62e462",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T22:57:01.685Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.9763306975364685,
+      -1.0128977298736572,
+      -0.9727199673652649
+    ],
+    "aabb_max": [
+      1.2308586835861206,
+      1.2128976583480835,
+      1.172719955444336
+    ],
+    "center": [
+      0.12726399302482605,
+      0.09999996423721313,
+      0.09999999403953552
+    ],
+    "scale": 2.2257953882217407
+  }
+}

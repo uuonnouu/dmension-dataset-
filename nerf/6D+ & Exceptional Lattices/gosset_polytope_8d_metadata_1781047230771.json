@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "gosset_polytope_8d",
+  "shapeName": "💎 Gosset 4₂₁ Polytope (8D) - 240 Vertices",
+  "exportDate": "2026-06-09T23:20:30.771Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 128,
+    "vSegments": 96
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "00000000000000000000000000000000000000000000000000000000206fc463",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T23:20:30.771Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.6878573894500732,
+      -1.339869737625122,
+      -0.46901586651802063
+    ],
+    "aabb_max": [
+      1.686856746673584,
+      1.965718388557434,
+      0.6727322936058044
+    ],
+    "center": [
+      -0.0005003213882446289,
+      0.312924325466156,
+      0.1018582135438919
+    ],
+    "scale": 3.3747141361236572
+  }
+}

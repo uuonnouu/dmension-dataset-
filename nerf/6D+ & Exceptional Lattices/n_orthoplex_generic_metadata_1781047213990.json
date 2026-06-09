@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "n_orthoplex_generic",
+  "shapeName": "✖️ N-Orthoplex (Configurable Cross-Polytope)",
+  "exportDate": "2026-06-09T23:20:13.990Z",
+  "parameters": {
+    "a": 50,
+    "b": -1.9,
+    "c": 43.04,
+    "d": 50,
+    "e": -34.1,
+    "f": -50,
+    "uMin": 0,
+    "uMax": 50,
+    "vMin": 46,
+    "vMax": 48.4,
+    "uSegments": 96,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000000e0575f0",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T23:20:13.990Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.7827193737030029,
+      -2.749006509780884,
+      -3.3357927799224854
+    ],
+    "aabb_max": [
+      0.7325478196144104,
+      2.0241105556488037,
+      8.245317459106445
+    ],
+    "center": [
+      -0.025085777044296265,
+      -0.36244797706604004,
+      2.45476233959198
+    ],
+    "scale": 11.58111023902893
+  }
+}

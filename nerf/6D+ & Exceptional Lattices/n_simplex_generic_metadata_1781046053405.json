@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "n_simplex_generic",
+  "shapeName": "🔺 N-Simplex (Configurable Dimension)",
+  "exportDate": "2026-06-09T23:00:53.405Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": -5.7,
+    "d": 4.51,
+    "e": 5.93,
+    "f": -50,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000000496ff56",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T23:00:53.405Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.6812376976013184,
+      0.07222222536802292,
+      -0.871895432472229
+    ],
+    "aabb_max": [
+      1.3038054704666138,
+      0.12777778506278992,
+      1.7931280136108398
+    ],
+    "center": [
+      0.3112838864326477,
+      0.10000000521540642,
+      0.4606162905693054
+    ],
+    "scale": 2.665023446083069
+  }
+}
