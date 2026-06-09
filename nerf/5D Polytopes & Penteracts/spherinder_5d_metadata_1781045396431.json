@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "spherinder_5d",
+  "shapeName": "🔮 Spherinder (Sphere × Interval)",
+  "exportDate": "2026-06-09T22:49:56.431Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 9.7,
+    "uMax": 50,
+    "vMin": 0,
+    "vMax": -26.3,
+    "uSegments": 131,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000019a71c32",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T22:49:56.431Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -2.839160919189453,
+      -2.7528748512268066,
+      -3.893673896789551
+    ],
+    "aabb_max": [
+      3.03884220123291,
+      2.953184127807617,
+      4.096755504608154
+    ],
+    "center": [
+      0.09984064102172852,
+      0.10015463829040527,
+      0.10154080390930176
+    ],
+    "scale": 7.990429401397705
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "cubinder_5d",
+  "shapeName": "📦 Cubinder (Cube × Interval)",
+  "exportDate": "2026-06-09T22:48:02.053Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 10.6,
+    "e": 0.71,
+    "f": 0,
+    "uMin": -36.5,
+    "uMax": 50,
+    "vMin": -25.9,
+    "vMax": 50,
+    "uSegments": 96,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000043995784",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T22:48:02.053Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -999.9000244140625,
+      -999.9000244140625,
+      -490.3492736816406
+    ],
+    "aabb_max": [
+      56.082035064697266,
+      1000.0999755859375,
+      1000.0999755859375
+    ],
+    "center": [
+      -471.9089946746826,
+      0.0999755859375,
+      254.87535095214844
+    ],
+    "scale": 2000
+  }
+}

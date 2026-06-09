@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "five_simplex_5d",
+  "shapeName": "🔺 5-Simplex (Hexateron) - 6 Vertices",
+  "exportDate": "2026-06-09T22:42:28.083Z",
+  "parameters": {
+    "a": 10,
+    "b": 5,
+    "c": 2,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": -100,
+    "uMax": 100,
+    "vMin": -100,
+    "vMax": 100,
+    "uSegments": 32,
+    "vSegments": 32
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000005e090211",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T22:42:28.083Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -182.9624786376953,
+      -314.3443908691406,
+      -209.70486450195312
+    ],
+    "aabb_max": [
+      184.0732421875,
+      316.6476745605469,
+      210.95651245117188
+    ],
+    "center": [
+      0.5553817749023438,
+      1.151641845703125,
+      0.625823974609375
+    ],
+    "scale": 630.9920654296875
+  }
+}

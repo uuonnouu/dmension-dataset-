@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "five_cube_penteract",
+  "shapeName": "🔷 5-Cube (Penteract) - 32 Vertices",
+  "exportDate": "2026-06-09T22:42:49.273Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 128,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000000081f40a",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T22:42:49.273Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -937.4000244140625,
+      -999.9000244140625,
+      -0.8999999761581421
+    ],
+    "aabb_max": [
+      937.5999755859375,
+      1000.0999755859375,
+      1.100000023841858
+    ],
+    "center": [
+      0.0999755859375,
+      0.0999755859375,
+      0.10000002384185791
+    ],
+    "scale": 2000
+  }
+}

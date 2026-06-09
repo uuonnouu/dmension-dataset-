@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "demipenteract_5d",
+  "shapeName": "💎 Demipenteract (5D Half-Cube) - 16 Vertices",
+  "exportDate": "2026-06-09T22:45:27.326Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000005694b3f5",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T22:45:27.326Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -799.9000244140625,
+      -799.9000244140625,
+      -799.9000244140625
+    ],
+    "aabb_max": [
+      800.0999755859375,
+      800.0999755859375,
+      800.0999755859375
+    ],
+    "center": [
+      0.0999755859375,
+      0.0999755859375,
+      0.0999755859375
+    ],
+    "scale": 1600
+  }
+}
