@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "scalar_curvature_surface",
+  "shapeName": "Scalar Curvature Surface",
+  "exportDate": "2026-06-09T20:53:16.254Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 1,
+    "e": 1,
+    "f": 2,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 72
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "00000000000000000000000000000000000000000000000000000000490bc35b",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:53:16.254Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -3.1005139350891113,
+      -2.172497034072876,
+      -1.898780107498169
+    ],
+    "aabb_max": [
+      3.300513744354248,
+      2.3724968433380127,
+      2.1052916049957275
+    ],
+    "center": [
+      0.09999990463256836,
+      0.09999990463256836,
+      0.1032557487487793
+    ],
+    "scale": 6.401027679443359
+  }
+}

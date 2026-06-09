@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "riemann_curvature_surface",
+  "shapeName": "Riemann Curvature Tensor",
+  "exportDate": "2026-06-09T20:52:43.874Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 1,
+    "e": 1,
+    "f": 2,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 72
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000004d523abc",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:52:43.874Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.8985227346420288,
+      -1.9824174642562866,
+      -2.499081611633301
+    ],
+    "aabb_max": [
+      2.098522663116455,
+      2.182417392730713,
+      2.704254627227783
+    ],
+    "center": [
+      0.09999996423721313,
+      0.09999996423721313,
+      0.10258650779724121
+    ],
+    "scale": 5.203336238861084
+  }
+}

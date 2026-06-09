@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "covariant_derivative_surface",
+  "shapeName": "Covariant Derivative Surface",
+  "exportDate": "2026-06-09T20:55:15.687Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 1,
+    "e": 1,
+    "f": 2,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 72
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000003836ad9e",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:55:15.687Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.5216763019561768,
+      -2.0089426040649414,
+      0.1001705676317215
+    ],
+    "aabb_max": [
+      2.508756399154663,
+      2.0759291648864746,
+      2.101963996887207
+    ],
+    "center": [
+      0.49354004859924316,
+      0.0334932804107666,
+      1.1010672822594643
+    ],
+    "scale": 4.084871768951416
+  }
+}

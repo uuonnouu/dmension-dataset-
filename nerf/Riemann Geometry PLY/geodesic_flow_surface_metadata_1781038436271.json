@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "geodesic_flow_surface",
+  "shapeName": "Geodesic Flow Surface",
+  "exportDate": "2026-06-09T20:53:56.271Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 1,
+    "e": 1,
+    "f": 2,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 72
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000004161ab60",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:53:56.271Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.6694602966308594,
+      -2.2668492794036865,
+      -1.2998288869857788
+    ],
+    "aabb_max": [
+      2.7006516456604004,
+      2.4668493270874023,
+      1.5002777576446533
+    ],
+    "center": [
+      0.5155956745147705,
+      0.10000002384185791,
+      0.10022443532943726
+    ],
+    "scale": 4.733698606491089
+  }
+}

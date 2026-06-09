@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "metric_tensor_riemann",
+  "shapeName": "Metric Tensor Surface",
+  "exportDate": "2026-06-09T20:53:40.126Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 1,
+    "e": 1,
+    "f": 2,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 72
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000054e2161b",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:53:40.126Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.299386978149414,
+      -1.982406497001648,
+      -0.6688956618309021
+    ],
+    "aabb_max": [
+      2.700385570526123,
+      2.182406425476074,
+      0.8723837733268738
+    ],
+    "center": [
+      0.7004992961883545,
+      0.09999996423721313,
+      0.10174405574798584
+    ],
+    "scale": 4.164812922477722
+  }
+}

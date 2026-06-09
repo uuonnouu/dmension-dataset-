@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "square_root_riemann",
+  "shapeName": "Square Root Riemann Surface",
+  "exportDate": "2026-06-09T20:57:17.464Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": -1,
+    "e": -1,
+    "f": -15,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 64,
+    "vSegments": 128
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "00000000000000000000000000000000000000000000000000000000175a213e",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:57:17.464Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.6149228811264038,
+      -0.6149228811264038,
+      -0.4020785689353943
+    ],
+    "aabb_max": [
+      0.814923107624054,
+      0.8115206956863403,
+      0.19860535860061646
+    ],
+    "center": [
+      0.10000011324882507,
+      0.09829890727996826,
+      -0.10173660516738892
+    ],
+    "scale": 1.4298459887504578
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "logarithm_riemann",
+  "shapeName": "Logarithmic Riemann Surface",
+  "exportDate": "2026-06-09T20:56:21.121Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": -49.51,
+    "e": -19.36,
+    "f": -6.63,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 64,
+    "vSegments": 192
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000006a56506b",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:56:21.121Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -999.9000244140625,
+      -999.9000244140625,
+      -0.022825781255960464
+    ],
+    "aabb_max": [
+      1000.0999755859375,
+      1000.0999755859375,
+      256.7718811035156
+    ],
+    "center": [
+      0.0999755859375,
+      0.0999755859375,
+      128.37452766112983
+    ],
+    "scale": 2000
+  }
+}

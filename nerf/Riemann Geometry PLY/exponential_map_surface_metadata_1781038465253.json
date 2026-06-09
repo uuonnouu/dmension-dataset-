@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "exponential_map_surface",
+  "shapeName": "Exponential Map Surface",
+  "exportDate": "2026-06-09T20:54:25.252Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 1,
+    "e": 1,
+    "f": 2,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 72
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "00000000000000000000000000000000000000000000000000000000042ce822",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:54:25.252Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -2.332427978515625,
+      -2.332427978515625,
+      0.10155632346868515
+    ],
+    "aabb_max": [
+      2.532428026199341,
+      2.532428026199341,
+      0.9020742774009705
+    ],
+    "center": [
+      0.10000002384185791,
+      0.10000002384185791,
+      0.5018153004348278
+    ],
+    "scale": 4.864856004714966
+  }
+}

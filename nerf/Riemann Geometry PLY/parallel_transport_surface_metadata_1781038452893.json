@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "parallel_transport_surface",
+  "shapeName": "Parallel Transport Surface",
+  "exportDate": "2026-06-09T20:54:12.892Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 1,
+    "e": 1,
+    "f": 2,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 72
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000000c59854a",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:54:12.892Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.9387495517730713,
+      -1.5013691186904907,
+      -1.9365806579589844
+    ],
+    "aabb_max": [
+      2.138749599456787,
+      2.4981274604797363,
+      2.141218423843384
+    ],
+    "center": [
+      0.10000002384185791,
+      0.4983791708946228,
+      0.10231888294219971
+    ],
+    "scale": 4.077799081802368
+  }
+}

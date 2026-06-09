@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "laplace_beltrami_surface",
+  "shapeName": "Laplace-Beltrami Operator",
+  "exportDate": "2026-06-09T20:55:04.581Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 1,
+    "e": 1,
+    "f": 1,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 72
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "00000000000000000000000000000000000000000000000000000000050c06e7",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:55:04.581Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.9011980891227722,
+      -0.9011980891227722,
+      -1.8955559730529785
+    ],
+    "aabb_max": [
+      1.1011773347854614,
+      1.101170301437378,
+      0.37397703528404236
+    ],
+    "center": [
+      0.0999896228313446,
+      0.09998610615730286,
+      -0.7607894688844681
+    ],
+    "scale": 2.269533008337021
+  }
+}

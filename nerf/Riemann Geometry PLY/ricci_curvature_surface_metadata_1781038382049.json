@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "ricci_curvature_surface",
+  "shapeName": "Ricci Curvature Tensor",
+  "exportDate": "2026-06-09T20:53:02.047Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 1,
+    "e": 1,
+    "f": 2,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 72
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000004938a024",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:53:02.047Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -2.298247814178467,
+      -2.298247814178467,
+      -0.8995251059532166
+    ],
+    "aabb_max": [
+      2.4982478618621826,
+      2.4982478618621826,
+      1.1052274703979492
+    ],
+    "center": [
+      0.10000002384185791,
+      0.10000002384185791,
+      0.10285118222236633
+    ],
+    "scale": 4.796495676040649
+  }
+}
