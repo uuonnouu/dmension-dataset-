@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "brain_wave",
+  "shapeName": "🧠 Brain Wave - Layered Cortical Shells (Delta/Theta/Alpha/Beta)",
+  "exportDate": "2026-06-09T21:09:56.069Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 6,
+    "e": 10,
+    "f": 20,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 120,
+    "vSegments": 90
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000077413659",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:09:56.069Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -2.0989463329315186,
+      -1.5872852802276611,
+      -2.444894790649414
+    ],
+    "aabb_max": [
+      2.302518606185913,
+      2.551218032836914,
+      2.6837403774261475
+    ],
+    "center": [
+      0.10178613662719727,
+      0.48196637630462646,
+      0.1194227933883667
+    ],
+    "scale": 5.1286351680755615
+  }
+}

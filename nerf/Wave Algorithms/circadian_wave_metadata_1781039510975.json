@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "circadian_wave",
+  "shapeName": "⏰ Circadian Wave - 24-Hour Biological Rhythm R(t) = R₀ + A cos(2πt/τ + φ)",
+  "exportDate": "2026-06-09T21:11:50.974Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0.7,
+    "e": 1,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 120,
+    "vSegments": 40
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000008911e0d",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:11:50.974Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.6832072734832764,
+      -1.4219517707824707,
+      0.09994710236787796
+    ],
+    "aabb_max": [
+      2.5074665546417236,
+      2.7155351638793945,
+      1.8999532461166382
+    ],
+    "center": [
+      0.41212964057922363,
+      0.6467916965484619,
+      0.9999501742422581
+    ],
+    "scale": 4.190673828125
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "seismic_wave",
+  "shapeName": "🌍 Seismic Wave - P-Wave and S-Wave Propagation",
+  "exportDate": "2026-06-09T21:10:14.139Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 8,
+    "e": 5,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 100,
+    "vSegments": 100
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000002f662f0a",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:10:14.139Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.4019358158111572,
+      -1.4022289514541626,
+      -1.910536289215088
+    ],
+    "aabb_max": [
+      1.6019399166107178,
+      1.6021991968154907,
+      2.0104289054870605
+    ],
+    "center": [
+      0.10000205039978027,
+      0.09998512268066406,
+      0.04994630813598633
+    ],
+    "scale": 3.9209651947021484
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "electromagnetic_wave",
+  "shapeName": "🌊 EM Wave Propagation: E×B",
+  "exportDate": "2026-06-09T21:09:07.568Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 4,
+    "e": 8.36,
+    "f": 21.97,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 128,
+    "vSegments": 32
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000000217d5d2",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:09:07.568Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -21.862628936767578,
+      -21.862628936767578,
+      -16.620088577270508
+    ],
+    "aabb_max": [
+      22.06262969970703,
+      22.06262969970703,
+      16.842077255249023
+    ],
+    "center": [
+      0.10000038146972656,
+      0.10000038146972656,
+      0.11099433898925781
+    ],
+    "scale": 43.92525863647461
+  }
+}

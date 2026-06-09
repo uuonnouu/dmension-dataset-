@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "quantum_wave",
+  "shapeName": "⚛️ Quantum Wave - Schrödinger Ψ(x,t) Probability Density",
+  "exportDate": "2026-06-09T21:11:21.072Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 5,
+    "e": 0.8,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 120,
+    "vSegments": 50
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "00000000000000000000000000000000000000000000000000000000632ca5bb",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:11:21.072Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.8965892791748047,
+      -0.932543933391571,
+      -0.9193227291107178
+    ],
+    "aabb_max": [
+      2.0965561866760254,
+      1.4017155170440674,
+      1.327028751373291
+    ],
+    "center": [
+      0.09998345375061035,
+      0.23458579182624817,
+      0.20385301113128662
+    ],
+    "scale": 3.99314546585083
+  }
+}

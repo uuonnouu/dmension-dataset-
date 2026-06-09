@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "gravitational_wave",
+  "shapeName": "🌌 Gravitational Wave - Einstein's h(t) = h₀ sin(2πft) Strain",
+  "exportDate": "2026-06-09T21:10:46.867Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 2,
+    "e": 0.5,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 100,
+    "vSegments": 100
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000038feddb9",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:10:46.867Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.8988078832626343,
+      -1.898410677909851,
+      -0.09178832173347473
+    ],
+    "aabb_max": [
+      2.0987679958343506,
+      2.0983707904815674,
+      0.2985757291316986
+    ],
+    "center": [
+      0.09998005628585815,
+      0.09998005628585815,
+      0.10339370369911194
+    ],
+    "scale": 3.997575879096985
+  }
+}

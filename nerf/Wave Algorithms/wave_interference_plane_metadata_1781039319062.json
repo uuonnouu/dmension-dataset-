@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "wave_interference_plane",
+  "shapeName": "〰️ Wave Interference Plane - Multi-source",
+  "exportDate": "2026-06-09T21:08:39.060Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 1,
+    "e": 5,
+    "f": 4,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 192,
+    "vSegments": 192
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000002c000083",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:08:39.060Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.4032374322414398,
+      -0.5702473521232605,
+      -0.4011805057525635
+    ],
+    "aabb_max": [
+      0.6032348275184631,
+      0.4499783515930176,
+      0.6022461652755737
+    ],
+    "center": [
+      0.09999869763851166,
+      -0.06013450026512146,
+      0.10053282976150513
+    ],
+    "scale": 1.020225703716278
+  }
+}

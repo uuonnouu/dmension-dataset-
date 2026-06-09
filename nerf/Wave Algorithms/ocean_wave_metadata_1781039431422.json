@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "ocean_wave",
+  "shapeName": "🌊 Ocean Wave - Spherical Ripple from Droplet Impact",
+  "exportDate": "2026-06-09T21:10:31.421Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0.25,
+    "e": 0.3,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 120,
+    "vSegments": 90
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000001c1a3539",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:10:31.421Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.2256500720977783,
+      -0.6832453012466431,
+      -0.9970164895057678
+    ],
+    "aabb_max": [
+      1.4308319091796875,
+      0.8844997882843018,
+      2.400559663772583
+    ],
+    "center": [
+      0.10259091854095459,
+      0.10062724351882935,
+      0.7017715871334076
+    ],
+    "scale": 3.397576153278351
+  }
+}
