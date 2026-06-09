@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "universal_set",
+  "shapeName": "U Universal Set - The Domain",
+  "exportDate": "2026-06-09T20:42:31.115Z",
+  "parameters": {
+    "a": 5,
+    "b": 5,
+    "c": 5,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 128,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000007783a270",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:42:31.115Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.9145606756210327,
+      -0.910479724407196,
+      -0.9556000828742981
+    ],
+    "aabb_max": [
+      1.1145607233047485,
+      1.1556000709533691,
+      1.151001214981079
+    ],
+    "center": [
+      0.10000002384185791,
+      0.12256017327308655,
+      0.0977005660533905
+    ],
+    "scale": 2.106601297855377
+  }
+}

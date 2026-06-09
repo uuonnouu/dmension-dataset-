@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "subset_relation",
+  "shapeName": "A ⊆ B Subset - Containment Relation",
+  "exportDate": "2026-06-09T20:42:06.666Z",
+  "parameters": {
+    "a": 3,
+    "b": 3,
+    "c": 3,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 96
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000072591b8c",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:42:06.666Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.8619397878646851,
+      -0.8619397878646851,
+      -0.800000011920929
+    ],
+    "aabb_max": [
+      1.0619397163391113,
+      1.0619397163391113,
+      1.0807852745056152
+    ],
+    "center": [
+      0.09999996423721313,
+      0.09999996423721313,
+      0.14039263129234314
+    ],
+    "scale": 1.9238795042037964
+  }
+}

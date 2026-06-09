@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "power_set",
+  "shapeName": "P(A) Power Set - All Subsets",
+  "exportDate": "2026-06-09T20:42:16.624Z",
+  "parameters": {
+    "a": 4,
+    "b": 4,
+    "c": 4,
+    "d": 3,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000001654dbc2",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:42:16.624Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.22766639292240143,
+      -0.3199726343154907,
+      -1.0446174144744873
+    ],
+    "aabb_max": [
+      0.5639256834983826,
+      0.5476183891296387,
+      1.2575000524520874
+    ],
+    "center": [
+      0.16812964528799057,
+      0.11382287740707397,
+      0.10644131898880005
+    ],
+    "scale": 2.3021174669265747
+  }
+}

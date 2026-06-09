@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "equivalent_sets",
+  "shapeName": "|A| = |B| Equivalent Sets - Same Cardinality",
+  "exportDate": "2026-06-09T20:42:39.717Z",
+  "parameters": {
+    "a": 3,
+    "b": 3,
+    "c": 2,
+    "d": 4,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 128,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "00000000000000000000000000000000000000000000000000000000000d8b7a",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:42:39.717Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.0520762205123901,
+      -0.4225482642650604,
+      -0.016088834032416344
+    ],
+    "aabb_max": [
+      1.2192577123641968,
+      0.6340731978416443,
+      0.23000000417232513
+    ],
+    "center": [
+      0.08359074592590332,
+      0.10576246678829193,
+      0.1069555850699544
+    ],
+    "scale": 2.271333932876587
+  }
+}

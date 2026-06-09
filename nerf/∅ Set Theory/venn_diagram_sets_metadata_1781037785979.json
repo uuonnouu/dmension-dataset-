@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "venn_diagram_sets",
+  "shapeName": "A ∩ B Venn Diagram - Set Operations",
+  "exportDate": "2026-06-09T20:43:05.978Z",
+  "parameters": {
+    "a": 3,
+    "b": 3,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000002230f105",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:43:05.978Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.6499999761581421,
+      -0.5,
+      -0.39759236574172974
+    ],
+    "aabb_max": [
+      0.8500000238418579,
+      0.699999988079071,
+      0.6000000238418579
+    ],
+    "center": [
+      0.10000002384185791,
+      0.09999999403953552,
+      0.10120382905006409
+    ],
+    "scale": 1.5
+  }
+}

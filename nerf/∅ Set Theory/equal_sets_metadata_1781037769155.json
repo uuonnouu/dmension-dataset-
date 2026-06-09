@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "equal_sets",
+  "shapeName": "A = B Equal Sets - Identical Elements",
+  "exportDate": "2026-06-09T20:42:49.154Z",
+  "parameters": {
+    "a": 2.5,
+    "b": 2.5,
+    "c": 2.5,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 48
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000001498fe9c",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:42:49.154Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.3931850790977478,
+      -0.28808021545410156,
+      -0.8180000185966492
+    ],
+    "aabb_max": [
+      0.587502121925354,
+      0.5151576399803162,
+      1
+    ],
+    "center": [
+      0.0971585214138031,
+      0.1135387122631073,
+      0.09099999070167542
+    ],
+    "scale": 1.8180000185966492
+  }
+}

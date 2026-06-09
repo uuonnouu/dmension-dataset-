@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "complement_set",
+  "shapeName": "Aᶜ Complement Set - Elements Not in A",
+  "exportDate": "2026-06-09T20:43:17.095Z",
+  "parameters": {
+    "a": 4,
+    "b": 4,
+    "c": 4,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000001e4868dd",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:43:17.095Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.9013296365737915,
+      -0.9013296365737915,
+      -0.8999999761581421
+    ],
+    "aabb_max": [
+      1.1013296842575073,
+      1.1013296842575073,
+      1.100000023841858
+    ],
+    "center": [
+      0.10000002384185791,
+      0.10000002384185791,
+      0.10000002384185791
+    ],
+    "scale": 2.002659320831299
+  }
+}

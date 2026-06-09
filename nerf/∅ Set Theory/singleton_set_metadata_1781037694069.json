@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "singleton_set",
+  "shapeName": "{a} Singleton Set - One Element",
+  "exportDate": "2026-06-09T20:41:34.068Z",
+  "parameters": {
+    "a": 1.5,
+    "b": 1.5,
+    "c": 1.5,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 48,
+    "vSegments": 24
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000007df10f48",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:41:34.068Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.44570162892341614,
+      -0.44570162892341614,
+      -0.4000000059604645
+    ],
+    "aabb_max": [
+      0.6457016468048096,
+      0.6457016468048096,
+      0.6000000238418579
+    ],
+    "center": [
+      0.10000000894069672,
+      0.10000000894069672,
+      0.10000000894069672
+    ],
+    "scale": 1.0914032757282257
+  }
+}

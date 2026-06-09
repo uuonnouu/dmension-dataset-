@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "finite_set",
+  "shapeName": "{1,2,...,n} Finite Set - Bounded Elements",
+  "exportDate": "2026-06-09T20:41:44.649Z",
+  "parameters": {
+    "a": 3,
+    "b": 3,
+    "c": 3,
+    "d": 5,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 48
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000006bc5ee86",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:41:44.649Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.7517104744911194,
+      -0.7723366618156433,
+      -0.6538941264152527
+    ],
+    "aabb_max": [
+      0.808225154876709,
+      0.8673108816146851,
+      0.8735806345939636
+    ],
+    "center": [
+      0.0282573401927948,
+      0.047487109899520874,
+      0.10984325408935547
+    ],
+    "scale": 1.6396475434303284
+  }
+}

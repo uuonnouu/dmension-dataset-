@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "null_set_empty",
+  "shapeName": "∅ Null Set (Empty Set) - The Void",
+  "exportDate": "2026-06-09T20:40:51.851Z",
+  "parameters": {
+    "a": 2,
+    "b": 2,
+    "c": 2,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 64,
+    "vSegments": 32
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000000235e493",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T20:40:51.851Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.8999999761581421,
+      -0.8951847553253174,
+      -0.8999999761581421
+    ],
+    "aabb_max": [
+      1.100000023841858,
+      1.0951846837997437,
+      1.0951846837997437
+    ],
+    "center": [
+      0.10000002384185791,
+      0.09999996423721313,
+      0.09759235382080078
+    ],
+    "scale": 2
+  }
+}
