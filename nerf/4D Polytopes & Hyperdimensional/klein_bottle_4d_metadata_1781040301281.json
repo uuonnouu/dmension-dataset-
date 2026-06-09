@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "klein_bottle_4d",
+  "shapeName": "Klein Bottle (4D Embedding)",
+  "exportDate": "2026-06-09T21:25:01.280Z",
+  "parameters": {
+    "a": 1.5,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 72
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000000e037e56",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:25:01.280Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.348323106765747,
+      -1.4046974182128906,
+      -0.5339616537094116
+    ],
+    "aabb_max": [
+      1.1984355449676514,
+      1.08835768699646,
+      0.5339616537094116
+    ],
+    "center": [
+      -0.07494378089904785,
+      -0.15816986560821533,
+      0
+    ],
+    "scale": 2.5467586517333984
+  }
+}

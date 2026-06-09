@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "duocylinder_4d_torus",
+  "shapeName": "🍩 Duocylinder (4D Torus)",
+  "exportDate": "2026-06-09T21:24:49.681Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 72,
+    "vSegments": 54
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000005e603fd0",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:24:49.681Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -590.9718627929688,
+      -590.9718627929688,
+      -34.26777267456055
+    ],
+    "aabb_max": [
+      591.1718139648438,
+      591.1718139648438,
+      34.467769622802734
+    ],
+    "center": [
+      0.0999755859375,
+      0.0999755859375,
+      0.09999847412109375
+    ],
+    "scale": 1182.1436767578125
+  }
+}

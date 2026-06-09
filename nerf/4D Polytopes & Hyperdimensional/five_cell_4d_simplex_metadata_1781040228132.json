@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "five_cell_4d_simplex",
+  "shapeName": "🔺 5-Cell (4D Simplex)",
+  "exportDate": "2026-06-09T21:23:48.131Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 128,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000074e00f3f",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:23:48.131Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.4000000059604645,
+      -0.4000000059604645,
+      -0.4000000059604645
+    ],
+    "aabb_max": [
+      0.6000000238418579,
+      0.6000000238418579,
+      0.6000000238418579
+    ],
+    "center": [
+      0.10000000894069672,
+      0.10000000894069672,
+      0.10000000894069672
+    ],
+    "scale": 1.0000000298023224
+  }
+}

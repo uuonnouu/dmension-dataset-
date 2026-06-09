@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "hypercube",
+  "shapeName": "Hypercube (Tesseract → 3D)",
+  "exportDate": "2026-06-09T21:21:15.586Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 192,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000000275c2b2",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:21:15.586Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.3761904835700989,
+      -0.3761904835700989,
+      -0.3761904835700989
+    ],
+    "aabb_max": [
+      0.5761904716491699,
+      0.5761904716491699,
+      0.5761904716491699
+    ],
+    "center": [
+      0.09999999403953552,
+      0.09999999403953552,
+      0.09999999403953552
+    ],
+    "scale": 0.9523809552192688
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "tesseract_4d",
+  "shapeName": "🔷 Tesseract (4D Hypercube) - Movie Style",
+  "exportDate": "2026-06-09T21:23:09.055Z",
+  "parameters": {
+    "a": 50,
+    "b": 27.06,
+    "c": 50,
+    "d": 23.9,
+    "e": 6.18,
+    "f": 50,
+    "uMin": -50,
+    "uMax": 50,
+    "vMin": -50,
+    "vMax": 50,
+    "uSegments": 48,
+    "vSegments": 48
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000000cb06d0b",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:23:09.055Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      0,
+      0,
+      0
+    ],
+    "aabb_max": [
+      0,
+      0,
+      0
+    ],
+    "center": [
+      0,
+      0,
+      0
+    ],
+    "scale": 0
+  }
+}

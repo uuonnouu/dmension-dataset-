@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "sixhundred_cell",
+  "shapeName": "💎 600-Cell (Icosahedral Tessellation)",
+  "exportDate": "2026-06-09T21:24:37.365Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 128,
+    "vSegments": 96
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000034396776",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:24:37.365Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -6.328738689422607,
+      -1.7597994804382324,
+      -1.8462015390396118
+    ],
+    "aabb_max": [
+      7.644819736480713,
+      2.117353916168213,
+      2.046201467514038
+    ],
+    "center": [
+      0.6580405235290527,
+      0.17877721786499023,
+      0.09999996423721313
+    ],
+    "scale": 13.97355842590332
+  }
+}

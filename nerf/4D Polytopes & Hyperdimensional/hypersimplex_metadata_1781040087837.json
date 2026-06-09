@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "hypersimplex",
+  "shapeName": "4D Simplex (5-Cell → 3D)",
+  "exportDate": "2026-06-09T21:21:27.836Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 1,
+    "f": 1,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 80,
+    "vSegments": 16
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "00000000000000000000000000000000000000000000000000000000281a366f",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:21:27.836Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.27196478843688965,
+      -0.271822452545166,
+      -0.26671984791755676
+    ],
+    "aabb_max": [
+      0.47197484970092773,
+      0.47140422463417053,
+      0.47270652651786804
+    ],
+    "center": [
+      0.10000503063201904,
+      0.09979088604450226,
+      0.10299333930015564
+    ],
+    "scale": 0.7439396381378174
+  }
+}

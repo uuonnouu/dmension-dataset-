@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "onetwenty_cell",
+  "shapeName": "🌟 120-Cell (Dodecahedral Tessellation)",
+  "exportDate": "2026-06-09T21:24:25.598Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 128,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000018df2cfe",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:24:25.598Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1.981723427772522,
+      -1.6619510650634766,
+      -2.6590006351470947
+    ],
+    "aabb_max": [
+      3.742227792739868,
+      3.742227792739868,
+      2.8590004444122314
+    ],
+    "center": [
+      0.8802521824836731,
+      1.0401383638381958,
+      0.09999990463256836
+    ],
+    "scale": 5.72395122051239
+  }
+}

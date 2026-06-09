@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "hypersphere",
+  "shapeName": "Hypersphere (4D Sphere → 3D)",
+  "exportDate": "2026-06-09T21:20:58.978Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": -47.46,
+    "e": -10.36,
+    "f": -11.55,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 14.9,
+    "uSegments": 64,
+    "vSegments": 48
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000003b39cf52",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:20:58.978Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -3.7783026695251465,
+      -3.776554584503174,
+      -4.451776027679443
+    ],
+    "aabb_max": [
+      3.9744272232055664,
+      3.9786736965179443,
+      4.442473411560059
+    ],
+    "center": [
+      0.09806227684020996,
+      0.10105955600738525,
+      -0.004651308059692383
+    ],
+    "scale": 8.894249439239502
+  }
+}

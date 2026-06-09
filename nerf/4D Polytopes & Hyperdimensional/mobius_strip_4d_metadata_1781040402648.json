@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "mobius_strip_4d",
+  "shapeName": "🔄 4D Möbius Strip",
+  "exportDate": "2026-06-09T21:26:42.647Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": -18.75,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": -14.8,
+    "vMax": 5.7,
+    "uSegments": 128,
+    "vSegments": 32
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000005dff33e7",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:26:42.647Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -2.309781789779663,
+      -0.7731992602348328,
+      -0.7739793658256531
+    ],
+    "aabb_max": [
+      1.3404223918914795,
+      2.632490396499634,
+      5.202244758605957
+    ],
+    "center": [
+      -0.4846796989440918,
+      0.9296455681324005,
+      2.214132696390152
+    ],
+    "scale": 5.97622412443161
+  }
+}

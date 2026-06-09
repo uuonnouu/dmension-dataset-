@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "clifford_torus_4d",
+  "shapeName": "Clifford Torus (4D)",
+  "exportDate": "2026-06-09T21:25:52.340Z",
+  "parameters": {
+    "a": 49.13,
+    "b": -9.49,
+    "c": 19.78,
+    "d": 29.99,
+    "e": -6.01,
+    "f": -13.29,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 6.8,
+    "uSegments": 96,
+    "vSegments": 72
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000066071752",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:25:52.340Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      0.10000000149011612,
+      0.10000000149011612,
+      0.01100648008286953
+    ],
+    "aabb_max": [
+      0.10000000149011612,
+      0.10000000149011612,
+      1.5967392921447754
+    ],
+    "center": [
+      0.10000000149011612,
+      0.10000000149011612,
+      0.8038728861138225
+    ],
+    "scale": 1.5857328120619059
+  }
+}

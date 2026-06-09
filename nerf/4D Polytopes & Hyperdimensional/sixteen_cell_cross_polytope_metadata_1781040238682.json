@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "sixteen_cell_cross_polytope",
+  "shapeName": "❖ 16-Cell (4D Cross-Polytope)",
+  "exportDate": "2026-06-09T21:23:58.681Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 128,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000046695a50",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:23:58.681Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.8999999761581421,
+      -0.8999999761581421,
+      -0.8999999761581421
+    ],
+    "aabb_max": [
+      1.100000023841858,
+      1.100000023841858,
+      1.100000023841858
+    ],
+    "center": [
+      0.10000002384185791,
+      0.10000002384185791,
+      0.10000002384185791
+    ],
+    "scale": 2
+  }
+}

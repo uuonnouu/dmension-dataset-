@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "hyperboloid_4d",
+  "shapeName": "📐 4D Hyperboloid (Two-Sheet)",
+  "exportDate": "2026-06-09T21:26:53.631Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 96,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000017eb0c81",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:26:53.631Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -0.8405489325523376,
+      -0.8405489325523376,
+      -0.8067151308059692
+    ],
+    "aabb_max": [
+      1.0405489206314087,
+      1.0405489206314087,
+      1.0067150592803955
+    ],
+    "center": [
+      0.09999999403953552,
+      0.09999999403953552,
+      0.09999996423721313
+    ],
+    "scale": 1.8810978531837463
+  }
+}
