@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "projection_comparison_4d",
+  "shapeName": "📐 4D Projection Comparison",
+  "exportDate": "2026-06-09T21:16:43.916Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 192,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "000000000000000000000000000000000000000000000000000000005ebb51f7",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:16:43.916Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -43.63548278808594,
+      0.10000000149011612,
+      -40.63548278808594
+    ],
+    "aabb_max": [
+      37.83548355102539,
+      0.10000000149011612,
+      40.83548355102539
+    ],
+    "center": [
+      -2.8999996185302734,
+      0.10000000149011612,
+      0.10000038146972656
+    ],
+    "scale": 81.47096633911133
+  }
+}

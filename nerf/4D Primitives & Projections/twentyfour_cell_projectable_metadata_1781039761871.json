@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "twentyfour_cell_projectable",
+  "shapeName": "🔶 24-Cell with Selectable Projection",
+  "exportDate": "2026-06-09T21:16:01.870Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 128,
+    "vSegments": 64
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000034edea16",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:16:01.870Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -311.5001220703125,
+      -515.8656005859375,
+      -295.36065673828125
+    ],
+    "aabb_max": [
+      340.514892578125,
+      462.15692138671875,
+      356.65435791015625
+    ],
+    "center": [
+      14.50738525390625,
+      -26.854339599609375,
+      30.6468505859375
+    ],
+    "scale": 978.0225219726562
+  }
+}

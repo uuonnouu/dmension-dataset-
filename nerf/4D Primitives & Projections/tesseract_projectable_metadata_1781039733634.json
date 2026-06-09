@@ -1,0 +1,49 @@
+{
+  "source": "Δmension Mathematical Universe",
+  "shapeId": "tesseract_projectable",
+  "shapeName": "🔷 Tesseract with Selectable Projection",
+  "exportDate": "2026-06-09T21:15:33.633Z",
+  "parameters": {
+    "a": 1,
+    "b": 1,
+    "c": 1,
+    "d": 0,
+    "e": 0,
+    "f": 0,
+    "uMin": 0,
+    "uMax": 1,
+    "vMin": 0,
+    "vMax": 1,
+    "uSegments": 192,
+    "vSegments": 96
+  },
+  "dmension_version": "2.0",
+  "security": {
+    "cryptographicHash": "0000000000000000000000000000000000000000000000000000000009a42003",
+    "verificationCode": "NERF-00000000",
+    "timestamp": "2026-06-09T21:15:33.633Z",
+    "author": "UUON Foundation Inc.",
+    "organization": "Δmension Mathematical Universe",
+    "copyright": "© 2024 UUON Foundation Inc. All Rights Reserved.",
+    "license": "CC BY-NC 4.0",
+    "integrityVersion": "2.0"
+  },
+  "scene_bounds": {
+    "aabb_min": [
+      -1000,
+      -1000,
+      -1000
+    ],
+    "aabb_max": [
+      1000,
+      1000,
+      1000
+    ],
+    "center": [
+      0,
+      0,
+      0
+    ],
+    "scale": 2000
+  }
+}
